@@ -1,0 +1,6 @@
+/.*
+/tsconfig.json
+/*.lock
+/src
+/docs
+/test
