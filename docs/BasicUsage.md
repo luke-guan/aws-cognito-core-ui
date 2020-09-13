@@ -2,7 +2,7 @@
 
 ##### Estatus
 
-######Estatus has the following options:
+###### Estatus has the following options:
 
 ```
 LOADING
@@ -21,7 +21,7 @@ SetUser
 ClearUser
 ```
 
-Dispatch an action allowed by Estatus to change screens
+Dispatch an action allowed by Estatus to change screens.
 
 ```javascript
 import { useAuthDispatch, Estatus } from 'aws-cognito-core-ui';

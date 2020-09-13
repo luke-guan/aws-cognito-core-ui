@@ -65,7 +65,7 @@ const LoadingUI = () => (
 
 ##### Link Component to your UX
 
-Reference the documentation on what is needed to contruct each component.
+Reference the [docs](docs/BasicUsage.md) on what is needed to contruct each component.
 
 ```javascript
 const MyScreenComponents = {
@@ -100,4 +100,5 @@ Pass in your awsconfig, along with your screens to ComponentObject.
 ## Support
 
 Feedback / Questions / Thoughts / Hire me?
+
 [Discord](https://discord.gg/Mfwc5sg)
